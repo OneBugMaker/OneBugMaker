@@ -1,4 +1,11 @@
 # Hello, welcome to OneBugMaker's page!
+![BugMaker_png](./images/BugMaker.png) 
+
+
+## Github Status
+![Github Stats](https://github-readme-stats.vercel.app/api?username=OneBugMaker&bg_color=0,0,f&title_color=0,0,0&text_color=0,0,0)
+
+
 
 <!--
 这个里面是注释，不会显示
@@ -15,8 +22,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## Github Status
-![Github Stats](https://github-readme-stats.vercel.app/api?username=OneBugMaker&bg_color=0,0,f&title_color=0,0,0&text_color=0,0,0)
-
-
