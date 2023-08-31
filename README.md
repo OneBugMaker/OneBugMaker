@@ -4,7 +4,10 @@
 
 ## Github Status
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=OneBugMaker&bg_color=0,0,f&title_color=0,0,0&text_color=0,0,0)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OneBugMaker)](https://github.com/OneBugMaker/github-readme-stats)
 
+## Visitor Count 
+<div align=center> <img src="https://profile-counter.glitch.me/OneBugMaker/count.svg" width = 60%/> </div>
 
 
 <!--
